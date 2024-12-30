@@ -8,11 +8,9 @@ A **personal data exploration project** focusing on FoodHub’s order data. This
 2. [Dataset Description](#dataset-description)  
 3. [Objectives](#objectives)  
 4. [Technologies Used](#technologies-used)  
-5. [Project Structure](#project-structure)  
-6. [Key Findings](#key-findings)  
-7. [Recommendations](#recommendations)  
-8. [How to Run](#how-to-run)  
-9. [License](#license)
+5. [Key Findings](#key-findings)  
+6. [Recommendations](#recommendations)  
+7. [License](#license)
 
 ---
 

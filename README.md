@@ -1,5 +1,5 @@
 # FoodHub-Order-Analysis
-A **personal data exploration project** focusing on FoodHub’s order data. This analysis aims to uncover trends in restaurant demand, cost patterns, and delivery performance, offering actionable insights to enhance overall operations and customer satisfaction.
+A **data exploration project** focusing on FoodHub’s order data. This analysis aims to uncover trends in restaurant demand, cost patterns, and delivery performance, offering actionable insights to enhance overall operations and customer satisfaction.
 
 ---
 
